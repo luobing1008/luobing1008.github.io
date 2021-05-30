@@ -16,10 +16,11 @@ body {
 #layout-menu {
 	background: #f6f6f6;
 	border: 1px solid #dddddd;
-	padding-top: 0.5em;
-	padding-left: 8px;
-	padding-right: 8px;
+	padding-top: 1.3em;
+	padding-left: 10px;
+	padding-right: 10px;
 	font-size: 1.0em;
+	line-height: 10px;
 	width: auto;
 	white-space: nowrap;
 	text-align: left;
@@ -32,7 +33,7 @@ body {
 }
 
 #layout-content {
-	padding-top: 0.0em;
+	padding-top: 1.5em;
 	padding-left: 1.0em;
 	padding-right: 1.0em;
 	border: none;
@@ -40,8 +41,7 @@ body {
 	text-align: left;
 	vertical-align: top;
 	min-width: 800px;
-	/* letter-spacing:8px; */
-	Line-height:10px;
+	Line-height:20px;
 	width: 1600px;/**/
 }
 

@@ -1,11 +1,10 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 # jemdoc: analytics{UA-130203500-1}
+
+
 = LuoBing-Research projects
 
-(Need modify)I work on signal processing, communication, optimization, control, and statistical learning, for various applications including
 
-- Federated reinforcement learning on Robots
-- Federated learning on IoT devices
 
 == Federated reinforcement learning on Robots
 
