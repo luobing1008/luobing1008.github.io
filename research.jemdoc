@@ -1,0 +1,59 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+# jemdoc: analytics{UA-130203500-1}
+= LuoBing-Research projects
+
+(Need modify)I work on signal processing, communication, optimization, control, and statistical learning, for various applications including
+
+- Federated reinforcement learning on Robots
+- Federated learning on IoT devices
+
+== Federated reinforcement learning on Robots
+
+Here is the introduction of the project.
+
+~~~
+{}{img_left}{images/NAO.jpeg}{Temp}{350}
+
+- NAO robots\n
+- Simulated platform\n
+- federated
+~~~
+
+== Federated learning on IoT devices
+
+Here is the introduction of the project.
+
+~~~
+{}{img_left}{images/iot.jpeg}{Temp}{350}
+
+More descriptions about iot demonstration platform.
+
+~~~
+ \n
+ \n 
+Preliminary results can be found in:\n
+- B. Luo, X. Li, S. Wang, J. Huang, L. Tassiulas, “Cost-Effective Federated Learning in Mobile Edge Networks,” submitted to IEEE Journal on Selective Areas in Communications (JSAC), 2021.
+
+~~~
+{Optionally empty title}{Optionally empty highlight mode}
+Code block with monospaced text.
+~~~
+more about the project...
+
+== Section3
+
+~~~
+{}{img_left}{images/iot.jpeg}{Temp}{350}
+
+More descriptions about iot demonstration platform.
+
+~~~
+
+== Section4
+
+~~~
+{}{img_left}{images/iot.jpeg}{Temp}{350}
+
+More descriptions about iot demonstration platform.
+
+~~~

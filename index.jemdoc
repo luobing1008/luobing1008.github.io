@@ -1,0 +1,88 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+# jemdoc: analytics{UA-130203500-1}
+
+= Luo Bing
+
+~~~
+{}{img_left}{images/lls.jpg}{Temp}{240}
+
+*Joint Postdoc at AIRS, CUHK(SZ) and Yale University* \n
+\n
+14-15F, Tower G2, Xinghe World, Rd Yabao,\n
+ Longgang District, Shenzhen, Guangdong, China\n
+
+Email: luobing@cuhk.edu.cn
+~~~
+
+== About me 
+One and half years of research experience in Federated Learning projects with AIRS, CUHKSZ, Yale, IBM Research, and WeBank, including optimization, system prototype development, multi-robot collaborative learning, and incentive mechanism design.
+Four years of working experience in China Mobile Headquarters as a project manager, leading several projects with Huawei, ZTE, Ericsson, and Nokia in improving the quality of China Mobile wireless network.
+Three years completing a Ph.D. degree from Melbourne University, earning three prestigious scholarships.
+
+#=== Education
+
+#*The University of Melbourne*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Melbourne, VIC Australia\n
+#Ph.D., Electrical & Electronics Engineering.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~May.2016 – Sep. 2019\n\n
+#*Beijing Univ. of Posts andTelecommunications*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Beijing, China\n
+#M.E., Communication and Information Systems~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Sep. 2009 – Mar. 2012\n
+#B.E., Communication Engineering~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Sep. 2005 – Jul. 2009\n
+
+#=== Professional Experience
+
+#*Joint Postdoctoral Research Fellow at CUHK(SZ) and Yale*\n
+#The Chinese University of Hong Kong, Shenzhen full-time (Oct. 2019 - Now)
+
+#Joint Postdoctoral Research Fellow at CUHK(SZ) and Yale University;
+#Also affiliate with Shenzhen Institute of Artificial intelligence and Robotics for Society (AIRS)
+#Currently working in several Federated Learning projects with AIRS, IBM Research, and WeBank, including optimization, system prototype development, multi-robot collaborative learning, and incentive mechanism design.
+# \n
+
+#*Visiting Researcher*\n
+#Yale University, New Haven, CT, USA full-time (Sep. 2018 – Feb. 2019)
+
+#Visited Yale Institute for Network Science (YINS)
+# \n
+
+#*Visiting Researcher*\n
+#University of Erlangen-Nuremberg, Erlangen Area, Germany (May. 2018 – June. 2018)
+ 
+#Visited Institute for Digital Communications (IDC)
+# \n
+
+#*Project Manager*\n
+#China Mobile, Beijing, China (Apr. 2012 – Jan. 2016)
+
+#Project Manager & Engineer at China Mobile Headquarter\n
+#Conducted China Mobile Service Quality Management project\n
+#Conducted China Mobile Wireless Quality Management project
+
+== Research Interest
+- Federated learning
+- Reinforcement learning
+- Robotics learning
+- Optimization in wireless networks, communications and energy harvesting
+- Cooperative game theory
+
+== Research Highlight
+
+~~~
+{}{img_left}{images/NAO.jpeg}{Temp}{350}
+
+=== IoT
+Conducted China Mobile Service Quality Management project. 
+Conducted China Mobile Wireless Quality Management project
+- B. Luo, X. Li, S. Wang, J. Huang, L. Tassiulas, “Cost-Effective Federated Learning Design,” IEEE International Conference on Computer Communications (INFOCOM), 2021. 
+- B. Luo, X. Li, S. Wang, J. Huang, L. Tassiulas, “Cost-Effective Federated Learning in Mobile Edge Networks,” submitted to IEEE Journal on Selective Areas in Communications (JSAC), 2021.
+~~~
+
+~~~
+{}{img_left}{images/iot.jpeg}{Temp}{350}
+=== IoT
+Conducted China Mobile Service Quality Management project. 
+Conducted China Mobile Wireless Quality Management project
+- B. Luo, X. Li, S. Wang, J. Huang, L. Tassiulas, “Cost-Effective Federated Learning Design,” IEEE International Conference on Computer Communications (INFOCOM), 2021. 
+- B. Luo, X. Li, S. Wang, J. Huang, L. Tassiulas, “Cost-Effective Federated Learning in Mobile Edge Networks,” submitted to IEEE Journal on Selective Areas in Communications (JSAC), 2021.
+~~~
+
+
+
