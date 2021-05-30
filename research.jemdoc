@@ -6,38 +6,40 @@
 
 
 
-== Federated reinforcement learning on Robots
+== Federated Reinforcement Learning for Robotics
 
-Here is the introduction of the project.
 
 ~~~
 {}{img_left}{images/NAO.jpeg}{Temp}{350}
 
-- NAO robots\n
-- Simulated platform\n
-- federated
+
+
+    \n
+- My research project “Federated Learning for Multi-Robotics Cooperation” got funded with 500,000rmb from AIRS! (Apr. 2021-Mar. 2022). 
+\n I lead this project with two excellent research interns Wenli Xiao and Tingwei Ye from CUHK(SZ). Check out our developed demo and cool NAO robots on the left side.
+
+- I participated in the WeBank-AIRS collaboration project “Federated Reinforcement Learning”, led by Prof. Qiang Yang and Prof. Jianwei Huang. (Nov. 2020-Oct. 2022)
 ~~~
 
-== Federated learning on IoT devices
+== Optimization and System Development for Federated Learning in Mobile and IoT Networks
 
-Here is the introduction of the project.
+
 
 ~~~
 {}{img_left}{images/iot.jpeg}{Temp}{350}
 
-More descriptions about iot demonstration platform.
+
+    \n
+- This is a collaborative research project with Prof. Jianwei Huang, Prof. Leandros Tassiulas, Dr. Shiqiang Wang, and research intern Xiang Li. Our goal is to design an efficient and effective federated learning system via optimizing key control parameters. Check our Heterogeneous Federated learning prototype on the left side.  
+
+- Our paper “Cost-Effective Federated Learning Design” got accepted in IEEE International Conference on Computer Communications (INFOCOM), 2021. 
 
 ~~~
  \n
  \n 
-Preliminary results can be found in:\n
-- B. Luo, X. Li, S. Wang, J. Huang, L. Tassiulas, “Cost-Effective Federated Learning in Mobile Edge Networks,” submitted to IEEE Journal on Selective Areas in Communications (JSAC), 2021.
 
-~~~
-{Optionally empty title}{Optionally empty highlight mode}
-Code block with monospaced text.
-~~~
-more about the project...
+
+
 
 == Section3
 
