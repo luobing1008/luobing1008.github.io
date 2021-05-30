@@ -6,20 +6,28 @@
 ~~~
 {}{img_left}{images/lls.jpg}{Temp}{240}
 
-*Joint Postdoctoral Research Fellow at CUHK(SZ) and Yale* \n
+*Joint Postdoctoral Research Fellow at CUHK(SZ) and Yale University* \n
 \n
-14-15F, Tower G2, Xinghe World, Rd Yabao,\n
+14-15F, Tower G2, Xinghe World, Rd Yabao,
  Longgang District, Shenzhen, Guangdong, China\n
 
 Email: luobing@cuhk.edu.cn
+ \n
+ \n
+  \n
+
+*Research Interests*:
+
+Federated learning, reinforcement learning, robotics learning, game theory, wireless communications and energy harvesting systems.
 ~~~
 
 == About me 
-I am a joint postdoctoral research fellow at CUHK(SZ) and Yale University, working with Prof. Jianwei Huang and Prof. Leandros Tassiulas on several federated learning related topics. I am also with Shenzhen Institute of Artificial intelligence and Robotics for Society (AIRS).
+I am a joint postdoctoral research fellow at CUHK(SZ) and Yale University, working with [http://jianwei.ie.cuhk.edu.hk/ Prof. Jianwei Huang] and [https://seas.yale.edu/faculty-research/faculty-directory/leandros-tassiulas/ Prof. Leandros Tassiulas] on several federated learning topics. I am also with Shenzhen Institute of Artificial intelligence and Robotics for Society (AIRS).
 
-One and half years of research experience in Federated Learning projects with AIRS, CUHKSZ, Yale, IBM Research, and WeBank, including optimization, system prototype development, multi-robot collaborative learning, and incentive mechanism design.
-Four years of working experience in China Mobile Headquarters as a project manager, leading several projects with Huawei, ZTE, Ericsson, and Nokia in improving the quality of China Mobile wireless network.
-Three years completing a Ph.D. degree from Melbourne University, earning three prestigious scholarships.
+I received my Ph.D. degree from The University of Melbourne, Australia, in 2020, B.S and M.S. degree from Beijing University of Posts and Telecommunications (BUPT), China, in 2009 and 2012, respectively.
+I was a visiting scholar at IBM T. J. Watson Research Center,  NY, USA, in February 2019, Yale University, USA, from September 2018 to January 2019, Friedrich-Alexander-University Erlangen-Nuremberg, Germany, from May to June 2018, and Aalto University, Finland, from September to October 2011.
+
+I was a project manager in China Mobile Headquarter, Beijing, from 2013 to 2016, where I led several projects with Huawei, ZTE, Ericsson, and Nokia in improving the quality of China Mobile wireless network.
 
 #=== Education
 
@@ -58,14 +66,7 @@ Three years completing a Ph.D. degree from Melbourne University, earning three p
 #Conducted China Mobile Service Quality Management project\n
 #Conducted China Mobile Wireless Quality Management project
 
-== Research Interest
-- Federated learning
-- Reinforcement learning
-- Robotics learning
-- Optimization in wireless networks, communications and energy harvesting
-- Cooperative game theory
-
-== Research Highlight
+== Research Highlights
 
 ~~~
 {}{img_left}{images/NAO.jpeg}{Temp}{350}
@@ -86,5 +87,18 @@ Conducted China Mobile Wireless Quality Management project
 - B. Luo, X. Li, S. Wang, J. Huang, L. Tassiulas, “Cost-Effective Federated Learning in Mobile Edge Networks,” submitted to IEEE Journal on Selective Areas in Communications (JSAC), 2021.
 ~~~
 
+== Selected Awards
+
+- Overseas High-Caliber Personnel in Shenzhen (2021)
+- Joint Postdoctoral Fellowship, AIRS, CUHK(SZ) and Yale University (2020-2022)
+- Melbourne Research Scholarship, Melbourne University (2016-2019)
+- Kenneth Myers Memorial Scholarship, Melbourne University (2018)
+- Robert Bage Memorial Scholarship, Melbourne University (2017)
+- Technical Innovation Expert Award, China Mobile (2014)
+- Advanced LTE Technology Professionals Award, China Mobile (2013)
+- Outstanding Master Thesis, BUPT (2012)
+- Wu Tong Communications. Co., Ltd, Scholarship (2012)
+- National First Grade Scholarship (2011)
+- Meritorious Winner 24th US Mathematical Contest in Modeling (2008)
 
 

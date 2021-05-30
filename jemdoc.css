@@ -42,7 +42,7 @@ body {
 	vertical-align: top;
 	min-width: 800px;
 	Line-height:20px;
-	width: 1600px;/**/
+	width: auto;/**/
 }
 
 #layout-menu a {
