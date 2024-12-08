@@ -772,5 +772,19 @@ Friedrich-Alexander-University Erlangen-Nuremberg, Aalto University, and IBM T. 
 </td>
 </tr>
 </table>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var details = document.getElementsByTagName('details')[0];
+      var summary = details.getElementsByTagName('summary')[0];
+      summary.addEventListener('click', function () {
+        if (details.style.display === 'none') {
+          details.style.display = 'block';
+        } else {
+          details.style.display = 'none';
+        }
+      });
+    });
+  </script>
 </body>
 </html>
