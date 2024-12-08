@@ -372,14 +372,3 @@ table.imgtable, table.imgtable td {
 	border: none;
 	text-align: left;
 }
-
-p.news-item {
-display: none;
-}
-details {
-margin-top: 10px;
-}
-summary {
-cursor: pointer;
-font-weight: bold;
-}
