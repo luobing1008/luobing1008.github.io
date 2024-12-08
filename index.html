@@ -773,36 +773,6 @@ Friedrich-Alexander-University Erlangen-Nuremberg, Aalto University, and IBM T. 
 </tr>
 </table>
 
-<script>
-    window.onload = function () {
-      var details = document.querySelector('details');
-      var summary = details.querySelector('summary');
-      var newsItems = details.querySelectorAll('p.news-item');
 
-      if (summary.attachEvent) {  // 针对IE等部分浏览器
-        summary.attachEvent('onclick', function () {
-          handleClick();
-        });
-      } else {
-        summary.addEventListener('click', function () {
-          handleClick();
-        });
-      }
-
-      function handleClick() {
-        if (details.open) {
-          for (var i = 0; i < newsItems.length; i++) {
-            newsItems[i].style.display = 'none';
-          }
-          details.removeAttribute('open');
-        } else {
-          for (var i = 0; i < newsItems.length; i++) {
-            newsItems[i].style.display = 'block';
-          }
-          details.setAttribute('open', '');
-        }
-      }
-    };
-  </script>
 </body>
 </html>
