@@ -775,14 +775,21 @@ Friedrich-Alexander-University Erlangen-Nuremberg, Aalto University, and IBM T. 
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-      var details = document.getElementsByTagName('details')[0];
-      var summary = details.getElementsByTagName('summary')[0];
-      var content = details.children[1];  // 获取details里除summary外的内容部分
+      var details = document.querySelector('details');  // 获取details元素
+      var summary = details.querySelector('summary');  // 获取summary元素
+      var newsItems = details.querySelectorAll('p.news-item');  // 获取所有新闻项（p.news-item）
+
       summary.addEventListener('click', function () {
-        if (content.style.display === 'none') {
-          content.style.display = 'block';
+        if (details.open) {  // 如果details已经展开（open属性为true）
+          for (var i = 0; i < newsItems.length; i++) {
+            newsItems[i].style.display = 'none';  // 隐藏所有新闻项
+          }
+          details.removeAttribute('open');  // 移除open属性，关闭details
         } else {
-          content.style.display = 'none';
+          for (var i = 0; i < newsItems.length; i++) {
+            newsItems[i].style.display = 'block';  // 显示所有新闻项
+          }
+          details.setAttribute('open', '');  // 设置open属性，展开details
         }
       });
     });
