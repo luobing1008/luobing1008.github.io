@@ -373,22 +373,12 @@ table.imgtable, table.imgtable td {
 	text-align: left;
 }
 
-/* 隐藏所有新闻项 */
 p.news-item {
 display: none;
 }
-
-/* 显示 2024 年的新闻项 */
-p.news-item[data-year="2024"] {
-display: block;
-}
-
-/* 折叠容器样式 */
 details {
 margin-top: 10px;
 }
-
-/* 折叠标题样式 */
 summary {
 cursor: pointer;
 font-weight: bold;
